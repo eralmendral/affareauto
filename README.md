@@ -4,7 +4,7 @@
 
 ![](https://i.gyazo.com/25261786659b86bfecb2c7adb29801fe.gif)
 
- <a href="https://harux-queue-ordering-d6to1rp1e.vercel.app/" target="_blank">View Demo</a>
+ <a href="https://carhub.brewedlogic.io/" target="_blank">View Demo</a>
  
 # Demo Account
   <p> email:  johndoe@gmail.com</p>
